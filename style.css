@@ -1,0 +1,10 @@
+h1:hover{
+	color: red;
+	border: 2px solid orange;
+	padding:30px 60px;
+}
+p{
+	color: red;
+	border: 2px solid orange;
+	padding: 30px;
+}
